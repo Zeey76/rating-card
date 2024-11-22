@@ -30,7 +30,7 @@ body {
 .rating-state {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.2rem;
     align-items: flex-start;
 }
 
@@ -41,6 +41,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 1rem;
 }
 
 h3 {
