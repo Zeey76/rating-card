@@ -71,14 +71,17 @@ p {
     justify-content: center;
     align-items: center;
     color: hsl(217, 12%, 63%);
+    font-weight: 700;
 }
 
 button:hover {
     background-color: hsl(25, 97%, 53%);
+    color: hsl(213, 19%, 18%);
 }
 
 button.active {
     background-color: hsl(0, 0%, 100%);
+    color: hsl(213, 19%, 18%);
 }
 
 .submit {
